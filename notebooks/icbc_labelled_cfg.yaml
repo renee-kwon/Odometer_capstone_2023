@@ -1,0 +1,6 @@
+path: ../tmp/icbc_labelled_split
+train: train/images
+val: valid/images
+
+nc: 1
+names: ['odo']
